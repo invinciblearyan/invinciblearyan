@@ -21,9 +21,10 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: invinciblearyan
+          github_token: ${{ secrets.GH_PAT }}
           outputs: |
-            output/github-contribution-grid-snake.svg
-            output/github-contribution-grid-snake-dark.svg?palette=github-dark
+            output/github-contribution-grid-snake.svg?palette=github
+            output/github-contribution-grid-snake-dark.svg?palette=github&color_snake=8965e0
 
       - name: Commit snake
         env:
