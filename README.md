@@ -44,9 +44,7 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://leetcode.com/u/invincible_at__/">
-          <img src="https://github-readme-leetcode-card.romitsagu.com/invincible_at__?theme=tokyonight" alt="LeetCode stats"/>
-          <br/>
-          <img src="https://leetcard.jacoblin.cool/invincible_at__?ext=heatmap&theme=dark" alt="LeetCode submission heatmap"/>
+          <img src="https://leetcard.jacoblin.cool/invincible_at__?ext=heatmap&theme=dark" alt="LeetCode stats"/>
         </a>
       </td>
       <td align="center" width="50%">
